@@ -1,4 +1,4 @@
-,City,Population Density,Population,Working Age Population ,Youth Dependency Ratio,Unemployment Rate,GDP per Capita,Days of very strong heat stress,Main Spoken Languages,Average Monthly Salary,Avgerage Rent Price,Average Cost of Living,Average Price Groceries,Last Data Update,CityName,Country,Latitude,Longitude
+,City,Population Density,Population,Working Age Population ,Youth Dependency Ratio,Unemployment Rate,GDP per Capita,Days of very strong heat stress,Main Spoken Languages,Average Monthly Salary,Average Rent Price,Average Cost of Living,Average Price Groceries,Last Data Update,CityName,Country,Latitude,Longitude
 1,"Vienna, Austria",310.0,2983513,2.018818e+06,20.1,10.2,55770.0,3,"German, English, Turkish, Serbian",2500,1050,2061,340.0,2024-06-15,Vienna,Austria,48.208333333333336,16.3725
 2,"Salzburg, Austria",243.0,375489,250472.0,20.3,3.0,66689.0,0,German,3200,1100,2186,,2023-11-03,Salzburg,Austria,47.8,13.045
 3,"Brussels, Belgium",681.0,3284548,2.137425e+06,27.5,10.7,62500.0,3,"French, Dutch, Arabic, English",3350,1200,1900,,2023-04-22,Brussels,Belgium,50.84666666666667,4.3525
